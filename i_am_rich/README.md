@@ -1,4 +1,4 @@
-##I Am Rich application - How to Create Flutter Apps from Scratch
+## I Am Rich application - How to Create Flutter Apps from Scratch
 
 
 Getting Started
