@@ -8,4 +8,4 @@ Resources to creat icons, logos and so many more:
 
 Review of the code:
 
-[IAmPoor.gif](IAmPoor.gif)
+![IAmPoor.gif](IAmPoor.gif)
