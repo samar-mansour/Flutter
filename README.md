@@ -1,7 +1,9 @@
 # The Complete 2021 Flutter Development Bootcamp Using Dart
 * Instructor: Angela Yu
 
-<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/sXz6u6kMQzK9uXkCwtPv" alt="Flutter" align="center">
+<p align="center">
+<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/sXz6u6kMQzK9uXkCwtPv" alt="Flutter">
+ </p>
 
 [https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
 
