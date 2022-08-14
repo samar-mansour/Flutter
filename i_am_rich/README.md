@@ -1,18 +1,16 @@
-## I Am Rich application - How to Create Flutter Apps from Scratch
+# i_am_rich
 
+A new Flutter project.
 
-Getting Started
+## Getting Started
+
 This project is a starting point for a Flutter application.
 
-A few resources to get you started in this Flutter project:
+A few resources to get you started if this is your first Flutter project:
 
-* [Material Design](https://material.io/)
-* [Scaffold Documentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
-* [AppBar Documentation](https://docs.flutter.io/flutter/material/AppBar-class.html)
-* [Material Design Colour System](https://material.io/design/color/the-color-system.html)
-* [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
-* [Make Flowcharts with Draw.io](https://www.draw.io/)
-* [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
-* [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
-* [Generating App Icons with AppIcon.co](https://appicon.co/)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
