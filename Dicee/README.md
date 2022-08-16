@@ -8,7 +8,7 @@ The objective of this project is to introduce to the core programming concepts t
 foundation of most of the apps you’ll build in the future. 
 This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
-![Dicee](Dicee.jpg)
+![Dicee](Dicee.gif)
 
 
 ## Resources 
