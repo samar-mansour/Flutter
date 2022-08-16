@@ -1,7 +1,5 @@
 # Dicee - Building Apps with State 🎲
 
-## Getting Started
-
 ## Project Goal
 
 The objective of this project is to introduce to the core programming concepts that will form the 
